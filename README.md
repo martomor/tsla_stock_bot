@@ -12,3 +12,10 @@ Here we will showcase how to quickly build a Data Science MVP using the below st
 - [Hugging Face Spaces](https://huggingface.co/spaces) as our web host
 
 This project is part of the [FourthBrain](https://www.fourthbrain.ai/) MLOps introduction program
+
+## POC, Build Locally and Deploy
+
+- [POC](./proof_of_concept.ipynb): Notebook with all development
+- [Local Build](./app.py): You can run `streamlit run app.py` to load the app locally
+- [Deploy](https://huggingface.co/spaces/martomor/tsla_bot): Here our app and repo hosted in the Hugging Face spaces 🤗
+
